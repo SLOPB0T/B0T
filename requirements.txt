@@ -17,3 +17,4 @@ google-api-python-client>=2.0.0
 # NOTE: Install torch CPU-only FIRST before detoxify to avoid CUDA bloat
 # See SETUP_ORACLE_CLOUD.md for instructions
 detoxify>=0.5.0
+ 
