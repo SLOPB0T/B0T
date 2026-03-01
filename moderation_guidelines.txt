@@ -831,3 +831,4 @@ BAD reasons (too vague):
 - "Toxic" / "Uncivil" / "Rude" ← meaningless
 - "Attacks user" ← say WHAT attack
 - "Direct insult" ← say WHICH insult
+ 
