@@ -4,6 +4,10 @@ An automated X moderation bot that uses AI to detect and report KOL Slop/Sponsor
 
 ---
 
+![b0t](https://media.discordapp.net/attachments/1446965347726135529/1477747135956127925/Untitled_design_80.png?ex=69a5e2c4&is=69a49144&hm=b43f610f45db6ca3df73cf5804d77fe5855a3333679ef0d908165aaab8515dce&=&format=webp&quality=lossless&width=836&height=279)
+
+---
+
 ## How It Works
 
 ```
@@ -992,7 +996,6 @@ These are Reddit API hiccups - the bot handles them automatically with retries. 
 ## License
 
 MIT License - feel free to use and modify.
- 
  
  
  
