@@ -2964,3 +2964,4 @@
     "_comment2": "If you want obfuscated slur matching without listing variants, generate regex from the term list using a joiner like \\W* between letters."
   }
 }
+ 
